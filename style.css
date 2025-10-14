@@ -14,3 +14,33 @@
   --shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
   --transition: all 0.3s ease-in-out;
 }
+body {
+  font-family: 'Poppins', sans-serif;
+  color: var(--text);
+  background-color: var(--light);
+  line-height: 1.6;
+  scroll-behavior: smooth;
+}
+
+header {
+  background: var(--accent);
+  color: var(--light);
+  box-shadow: var(--shadow);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  flex-wrap: wrap;
+}
+
+#site-title {
+  font-size: 1.8rem;
+  color: var(--secondary);
+  font-weight: 700;
+}
