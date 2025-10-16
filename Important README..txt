@@ -1,0 +1,2 @@
+Hi guys, my phone got stolen yesterday morning. I will gain access to my contacts soon, but in the meantime I will communicate here, hopefully you guys see this by today. 
+Petrus, I will go through the entire html,css and jss files today and add my input then you guys can take it from there. 
